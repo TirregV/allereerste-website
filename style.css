@@ -82,8 +82,8 @@ img, audio, iframe {
   color: white;
 }
 
-.module{
-  width:32px;
-  height:32px
-  cursor: url('files/Image/Dutch_(Civ5).png'), auto; 
+{
+  cursor: url('files/Image/Dutch_(Civ5).png'), auto; width:32px;
+  height:32px; 
+}
 }
