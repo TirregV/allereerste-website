@@ -81,3 +81,9 @@ img, audio, iframe {
   background-color: #29c330;
   color: white;
 }
+
+.custom {
+  width:32px;
+  height:32px
+  cursor: url('files/Image/Dutch_(Civ5).png'), auto; 
+}
