@@ -82,7 +82,7 @@ img, audio, iframe {
   color: white;
 }
 
-{
+body{
   width:32px;
   height:32px
   cursor: url('files/Image/Dutch_(Civ5).png'), auto; 
