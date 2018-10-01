@@ -36,7 +36,8 @@ h1 {
 h2 {
   border-bottom-width: 5px;
 }
- audio, iframe {
+
+img, audio, iframe {
   width: 100%;
 }
 
