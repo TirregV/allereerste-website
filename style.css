@@ -84,14 +84,3 @@ img, audio, iframe {
 body{
   cursor: url(files/Image/Muiswijzer.png), auto;
 }
-.column {
-  float: left;
-  width: 25.00%;
-  padding: 5px;
-}
-
-.row::after {
-  content: "";
-  clear: both;
-  display: table;
-}
