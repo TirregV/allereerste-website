@@ -182,7 +182,7 @@ body{
   right: 30px;
   border: medium solid white;
   border-width: 10px 0 10px 10px;
-  border-color: transparent transparent transparent white;
+  border-color: transparent transparent transparent #b2c1b3;
 }
 
 .right::before {
@@ -195,7 +195,7 @@ body{
   left: 30px;
   border: medium solid white;
   border-width: 10px 10px 10px 0;
-  border-color: transparent white transparent transparent;
+  border-color: transparent #b2c1b3 transparent transparent;
 }
 
 .right::after {
