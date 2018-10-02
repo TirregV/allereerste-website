@@ -105,7 +105,7 @@ body{
     left: 50%;
     margin-left: -60px;
     opacity: 0;
-    transition: opacity 0,3s;
+    transition: opacity 0,8s;
 }
 
 .tooltip .tooltiptext::after {
@@ -137,7 +137,7 @@ body{
   content: '';
   position: absolute;
   width: 6px;
-  background-color: #b2c1b3;
+  background-color: #b71919;
   top: 0;
   bottom: 0;
   left: 50%;
